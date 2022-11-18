@@ -1,5 +1,5 @@
 function ref(){let e=setInterval(()=>{"albega-info.blogspot.com"==window.location.host&&document.querySelector("#lburl")&&(clearInterval(e),setTimeout(()=>{var e=["w1Ja","UzHhcU5","k7ueFxlT","LWLtk6aB","bJb","zvGnto","ICcygI","v6UM6GH4"];document.querySelector("#lburl").setAttribute("onclick",`window.location.href='https://linkbnao.com/${e[Math.floor(Math.random()*e.length)]}'`),setTimeout(()=>{document.querySelector("#lburl").click(),setTimeout(()=>{document.querySelector("#lburl").click()},50)},500)},50))},10)}, 500)
-function ref() {
+function ref1() {
 
     const i = setInterval(() => {
         if (window.location.host == "rentry.co") {
